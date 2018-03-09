@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Alerta Dialogo</string>
+    //---------->DialogFragment: alerta de descuento por FALTA>
+    <string name="rechazo_falta">Has rechazado una falta.</string>
+
+    <string name="si">SI</string>
+    <string name="NO">NO</string>
+    <string name="seguro_aplicar_descuento_falta">¿Estas seguro de aplicar\n el descuento?</string>
+
+    //---------->DialogFragment: alerta por descuento por INCUMPLIMIENTO>
+    <string name="tercer_incumplimiento">Este es el 3er incumplimiento\n rechazado de Lucia Pimentel</string>
+    <string name="seguro_aplicar_descuento_incumplimiento">¿Estas seguro de aplicar\n el descuento?</string>
+
+    //---------->DialogFragment: mensaje de alerta No puedes rechazar y No puede seleccionar mas de
+    N>
+    <string name="rechazo_tres_faltas_incumplimientos">No puede rechazar más de 3\n incumplimientos ni más de 3 faltas.</string>
+    <string name="consultar_matriz">(CONSULTAR MATRIZ DE \N NOTIFICACIONES)</string>
+
+    //---------->Nuevo Asistencias Tutorial
+    <string name="asistencias_uno">Conoce los criterios que \n definen tu asistencia diaria</string>
+    <string name="asistencias_tres">Asistencia semanal de tu plantilla</string>
+    <string name="asistencias_leyenda_tres">Revisa rápidamente la asistencia semanal de tu\n planilla. La marca debajo de cada ícono indica que\n una justificación ha sido enviada y debes atenderla.</string>
+    <string name="asistencias_cuatro">Justificaciones de tu plantilla</string>
+    <string name="asistencias_leyenda_cuatro">Debes autorizar o rechazar inmediatamente\n los incumplimientos de tu plantilla.\n No olvides retroalimentarlos.</string>
+    <string name="asistencias_cinco">Estatus de justificaciones</string>
+    <string name="asistencias_leyenda_cinco">Lleva un seguimiento del estatus de tus\n justificaciones para evitar caer en incidencias.</string>
+
+</resources>
